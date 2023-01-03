@@ -9,7 +9,7 @@ Though not the only option, the most promising data carrier from today's perspec
 
 The GS1 Digital Link URI Syntax Standard (see https://ref.gs1.org/standards/digital-link/uri-syntax/) provides a Regular Expression (RegEx) to recognise GS1 data structures. See section 6.1 Recognising a GS1 Digital Link URI. 
 
-Based on this RegEx, this repository contains a (hopefully) comprehensible demonstration on how GS1 data can be extracted from such a URI - just access provided [Jupyter Notebook](https://github.com/RalphTro/fetchGTINFromGS1DigitalLinkURI/blob/main/gtinRecognitionInGs1DigitalLinkURIs2DCommunity.ipynb).   
+Based on this RegEx, this repository contains a (hopefully) comprehensible demonstration on how GS1 data can be extracted from such a URI - just access the provided [Jupyter Notebook](https://github.com/RalphTro/fetchGTINFromGS1DigitalLinkURI/blob/main/gtinRecognitionInGs1DigitalLinkURIs2DCommunity.ipynb).   
 
 ## On Jupyter Notebooks 
 In simple words, a Jupyter Notebook is a convenient way to switch between explanatory text and executable code. It is based on open source software and standards. 
